@@ -8,3 +8,5 @@ So here's the database I maintained with games from 11/15/2021 to 5/4/2022. It c
 What I ultimately used this for was to create an RAPM or regularized adjusted plus-minus metric for Halo players. I did this by game type, and rolled it up into a game predictions model that only worked okay. It clearly had some issues like not suppressing non-NA players because they disproportionally played poorer competition (as in they played people in their region more). I have a path forward with it, but the game's general interest has cratered and I don't think it would be worth my time to build one either from either a betting or integrating-into-the-scene perspective. 
 
 So here's a database file with what I had, everything should be fairly self explanatory. At some point along the way medals were parsed out so a second table was created to store those for games that had them. If you download this and do something with it, let me know! If you have any questions or comments, let me know! Just open up an issue ticket here or message me on discord: CYRiX#5864
+
+Download Link: https://drive.google.com/file/d/1RnMwV0VWfbVwtJd6pHuZpwKKlWbcJ1fi/view?usp=sharing
